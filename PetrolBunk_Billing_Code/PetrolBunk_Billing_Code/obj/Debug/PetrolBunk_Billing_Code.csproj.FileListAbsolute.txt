@@ -1,1 +1,8 @@
 E:\Visual Studio\Git Projects\PetrolBunk_Billing_Code\PetrolBunk_Billing_Code\PetrolBunk_Billing_Code\bin\Debug\PetrolBunk_Billing_Code.exe.config
+E:\Visual Studio\Git Projects\PetrolBunk_Billing_Code\PetrolBunk_Billing_Code\PetrolBunk_Billing_Code\bin\Debug\PetrolBunk_Billing_Code.exe
+E:\Visual Studio\Git Projects\PetrolBunk_Billing_Code\PetrolBunk_Billing_Code\PetrolBunk_Billing_Code\bin\Debug\PetrolBunk_Billing_Code.pdb
+E:\Visual Studio\Git Projects\PetrolBunk_Billing_Code\PetrolBunk_Billing_Code\PetrolBunk_Billing_Code\obj\Debug\PetrolBunk_Billing_Code.Form1.resources
+E:\Visual Studio\Git Projects\PetrolBunk_Billing_Code\PetrolBunk_Billing_Code\PetrolBunk_Billing_Code\obj\Debug\PetrolBunk_Billing_Code.Properties.Resources.resources
+E:\Visual Studio\Git Projects\PetrolBunk_Billing_Code\PetrolBunk_Billing_Code\PetrolBunk_Billing_Code\obj\Debug\PetrolBunk_Billing_Code.csproj.GenerateResource.Cache
+E:\Visual Studio\Git Projects\PetrolBunk_Billing_Code\PetrolBunk_Billing_Code\PetrolBunk_Billing_Code\obj\Debug\PetrolBunk_Billing_Code.exe
+E:\Visual Studio\Git Projects\PetrolBunk_Billing_Code\PetrolBunk_Billing_Code\PetrolBunk_Billing_Code\obj\Debug\PetrolBunk_Billing_Code.pdb
